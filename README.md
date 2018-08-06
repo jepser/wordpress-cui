@@ -1,3 +1,5 @@
+# WordPress Conversations
+
 Typeform conversations WordPress plugin.
 
 Embed easily your conversations into your site content.
